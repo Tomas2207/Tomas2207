@@ -34,7 +34,15 @@ challanges and solutions.
 ## Technologies & Skills
 <p align='center'>
   <img
+    src="https://img.shields.io/badge/-NextJs-000000?logo=next.js&logoColor=white&style=for-the-badge"
+    alt=""
+  />
+  <img
     src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=black&style=for-the-badge"
+    alt=""
+  />
+  <img
+    src="https://img.shields.io/badge/-Typescript-007ACC?logo=typescript&logoColor=white&style=for-the-badge"
     alt=""
   />
   <img
